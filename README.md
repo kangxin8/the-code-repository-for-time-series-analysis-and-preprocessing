@@ -7,7 +7,7 @@ This repository includes code for:
 
 
 # the Instructions
-1 main_single_samole_analysis : vibration signal analysis  
+1 main_single_sample_analysis : vibration signal analysis  
 
 2 main_adaptive_filter : audio signal process  
 
